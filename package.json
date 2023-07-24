@@ -1,0 +1,10 @@
+{
+  "name": "petro-soket-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "vita-walle",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
